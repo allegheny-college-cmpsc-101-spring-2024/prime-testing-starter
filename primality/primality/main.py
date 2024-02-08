@@ -27,7 +27,6 @@ class PrimalityTestingApproach(str, Enum):
     EFFICIENT = "efficient"
 
 # TODO: Produce a human-readable Yes or No for a boolean value of True or False.
-# TODO: You may wish to review the Integer Square code to find an example of this
 def human_readable_boolean(answer: bool) -> str:
     """Produce a human-readable Yes or No for a boolean value of True or False."""
     # TODO: produce a human-readable value for a bool
@@ -36,8 +35,6 @@ def human_readable_boolean(answer: bool) -> str:
     # This return value is a placeholder
     return "Yes"
 
-# TODO: Research the type annotations here and change one if necessary
-# https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
 def pretty_print_list(values: Iterable[int]) -> str:
     """Pretty print a list without brackets and adding commas."""
     # TODO: create and return a version of the list without brackets
