@@ -1,12 +1,18 @@
 # Primality Testing
 
-TODO: Please delete all of the TODO markers from this file so that you have a
-professionally formatted and organized reflection that would be suitable for
-posting on a public web site.
+TODO: Provide responses for the TODOs.
 
-TODO: Please honsetly address every part of this reflection to get a check on
-the Engineering Effort Technical Writing Skills, which accounts for 16.6% of
-the total Engineering Effort Grade.
+Make sure that all aspects of the `writing/reflection.md` correctly use all
+of the features of the Markdown standard. This means that, when you preview your
+Markdown it should always be formatted in a suitable fashion. For VS Code previews,
+right click on the tab that shows the file name (e.g. `reflection.md`), then select
+Open Preview.
+
+Please make sure that you completely delete the TODO markers
+from every line of the `writing/reflection.md` file.
+
+Ensure that your writing is original and based on your own understanding
+of the concepts.
 
 TODO: Delete the phrase "Add Your Name Here" and then add your name.
 
